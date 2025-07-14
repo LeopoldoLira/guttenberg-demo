@@ -53,6 +53,7 @@ wp-content/plugins/
   - Registered as a reusable block pattern
 
 ### 3. **Custom Block with JavaScript**
+🔗 [View Plugin Repository on GitHub](https://github.com/LeopoldoLira/feature-card-block-demo)
 
 - **Feature Card Block**
   - Built using `@wordpress/scripts` and React-based JSX
