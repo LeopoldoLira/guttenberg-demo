@@ -7,7 +7,7 @@ $PRICING_TABLE__BUTTON = get_field('button');
 
 
 <div class='pricing-table' >
-    <h2><?=$PRICING_TABLE___NAME;?></h2>
+    <h2><?=$PRICING_TABLE__NAME;?></h2>
     <p class='price'><?=$PRICING_TABLE___PRICE;?></p>
 
     <? if ($PRICING_TABLE__FEATURES):?>

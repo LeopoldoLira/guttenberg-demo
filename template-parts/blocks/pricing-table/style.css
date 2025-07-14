@@ -1,0 +1,27 @@
+.pricing-table {
+  border: 1px solid #ccc;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  max-width: 300px;
+}
+.pricing-table .price {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.pricing-table .features {
+  list-style: none;
+  padding: 0;
+}
+.pricing-table .features li {
+  margin: 5px 0;
+}
+.pricing-table .button {
+  display: inline-block;
+  background: #0073aa;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-top: 15px;
+  border-radius: 5px;
+}

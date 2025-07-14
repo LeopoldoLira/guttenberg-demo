@@ -11,6 +11,7 @@ function register_acf_block_types(){
         'keywords' => array('pricing','table', 'plan'),
         'mode' => 'edit',
         'supports' => ['align' => false],
+        'enqueue_style' => get_template_directory_uri() . '/template-parts/blocks/pricing-table/style.css',
     ));
 }
 
