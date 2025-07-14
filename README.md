@@ -36,6 +36,7 @@ wp-content/plugins/
         ├── edit.js
         ├── save.js
         ├── index.js
+```
 
 --- 
 
